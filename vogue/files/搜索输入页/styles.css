@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:323px;
+  width:320px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -17,19 +17,19 @@
   left:0px;
   top:0px;
   width:320px;
-  height:316px;
+  height:296px;
 }
 #u0_img {
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
-  height:316px;
+  height:296px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:150px;
+  top:140px;
   width:316px;
   visibility:hidden;
   word-wrap:break-word;
@@ -60,7 +60,7 @@
   position:absolute;
   left:238px;
   top:455px;
-  width:85px;
+  width:82px;
   height:45px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
@@ -70,21 +70,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
+  width:82px;
   height:45px;
 }
 #u5 {
   position:absolute;
   left:2px;
   top:14px;
-  width:81px;
+  width:78px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u6 {
   position:absolute;
   left:266px;
-  top:23px;
+  top:4px;
   width:44px;
   height:40px;
   font-family:'微软雅黑 Regular', '微软雅黑';
@@ -109,7 +109,7 @@
 #u8 {
   position:absolute;
   left:13px;
-  top:8px;
+  top:6px;
 }
 #u8_state0 {
   position:relative;
